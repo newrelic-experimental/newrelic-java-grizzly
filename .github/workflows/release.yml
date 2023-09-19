@@ -1,7 +1,7 @@
 name: Build and Release (Manual Run) v1.3
 
 on: 
- workflow_dispatch: # This event allows manual triggering 
+ workflow_dispatch: # This event allows manual triggering .
 
 jobs:
   build-and-release:
