@@ -1,6 +1,7 @@
 ## Version: [v1.0.0](https://github.com/newrelic-experimental/newrelic-java-grizzly/releases/tag/v1.0.0) | Created: 2023-09-19
 ## Version: [v1.0.0](https://github.com/newrelic-experimental/newrelic-java-grizzly/releases/tag/v1.0.0) | Created: 2023-09-19
 ## Version: [v1.0.0](https://github.com/newrelic-experimental/newrelic-java-grizzly/releases/tag/v1.0.0) | Created: 2023-09-19
+## Version: [v1.0.0](https://github.com/newrelic-experimental/newrelic-java-grizzly/releases/tag/v1.0.0) | Created: 2023-09-19
 ## Installation
 
 To install:
